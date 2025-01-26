@@ -1,3 +1,14 @@
-::backdrop {
-    color: rgb(74, 133, 74);
+.step{
+    font-size: large;
+    background-color: rgb(182, 60, 60);
+    color: white;
+    text-align: center;   
+}
+p {
+    text-align: center;
+}
+h1{
+    color: black;
+    background-color: aquamarine;
+    text-align: center;
 }
